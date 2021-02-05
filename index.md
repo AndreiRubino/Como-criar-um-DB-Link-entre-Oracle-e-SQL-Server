@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Como criar um DB Link entre o Oracle e SQLServer (Hands ON)
 
-You can use the [editor on GitHub](https://github.com/AndreiRubino/Como-criar-um-DB-Link-entre-Oracle-e-SQL-Server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este vídeo tem o objetivo de esclarecer como funciona e criar um Database Link do Oracle para o SQL Server.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.youtube.com/watch?v=0aTWqTcCwfs
+ 
+Links:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[VM de avaliação Oracle Linux com Oracle 19c.](https://www.oracle.com/database/technologies/databaseappdev-vm.html)
 
-- Bulleted
-- List
+VM de avaliação do Windows 10 (SQL Server não incluso).
+[VM de avaliação do Windows 10 (SQL Server não incluso)](https://developer.microsoft.com/pt-br/windows/downloads/virtual-machines/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreiRubino/Como-criar-um-DB-Link-entre-Oracle-e-SQL-Server/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Instalação Driver ODBC](https://oracle-base.com/articles/linux/create-an-odbc-dsn-on-linux)
