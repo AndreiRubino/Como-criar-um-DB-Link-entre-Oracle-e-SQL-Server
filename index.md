@@ -3,7 +3,7 @@
 
 Este vídeo tem o objetivo de esclarecer como funciona e criar um Database Link do Oracle para o SQL Server.
 
-<iframe width="880" height="494" src="https://www.youtube.com/embed/0aTWqTcCwfs" frameborder="0" align="center"; allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="880" height="494" src="https://www.youtube.com/embed/0aTWqTcCwfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 Link das VMs que utilizei para fazer o HANDS ON:
