@@ -3,6 +3,8 @@
 
 Este vídeo tem o objetivo de esclarecer como funciona e criar um Database Link do Oracle para o SQL Server.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0aTWqTcCwfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 https://www.youtube.com/watch?v=0aTWqTcCwfs
  
